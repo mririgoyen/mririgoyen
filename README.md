@@ -1,8 +1,5 @@
-## Welcome!
-Hello! I'm Michael and I write code for a living. I am currently employeed as a Senior Software Engineer II with [Accusoft](https://www.accusoft.com) in Tampa, FL. I work all across our tech stack, including managing resources in AWS, deploying with Docker, writing and testing Node.js microservices, and building front-ends in React. I am very passionate about User Experience, whether that be in the UI or the API. I also enjoy contributing to the open-source community whenever I find a useful avenue to do so.
-
-## Presentations
-If you've seen me talk at a past conference and are looking for the slide decks, see my [Presentations](https://github.com/goyney/presentations) repository.
+## I'm Michael Irigoyen
+I am a software engineer who has been working in the industry for over fifteen years. I enjoy music, gaming, iconography, and home improvement projects. I love to continuously learn new things, and I find expanding my knowledge base often comes while helping others do the same. One of my passions is the Extra Life fundraiser, which raises money for kids in Children's Miracle Network Hospitals.
 
 ## Material Design Icons
 My biggest open-source hobby is working with [Templarian](https://github.com/Templarian), and the rest of the core contributor team, on [Material Design Icons](https://www.materialdesignicons.com). We create, and assistant those who also wish to create, icons that follow [Material guidelines](https://material.io/design/iconography/system-icons.html#design-principles) that anyone can use in their applications.

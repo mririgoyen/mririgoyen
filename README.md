@@ -8,9 +8,9 @@ I am a software engineer who has been working in the industry for over fifteen y
 I love speaking at conferences, meetups, and more. You can find archives of my past presentations in my [talks repository](https://github.com/goyney/talks).
 
 ## Philanthropy
-For the past eight years, I have been participating in the [Extra Life fundraiser](https://www.extra-life.org/). Extra Life works to save local kids through the power of gaming, and 100% of all donations go directly to Children's Miracle Network Hospitals. Over the past four years, I have lead the [Accusoft Team](https://www.accusoft.com/extralife) and we have raised over $30,000!
+For the past eight years, I have been participating in the [Extra Life fundraiser](https://www.extra-life.org/). Extra Life works to save local kids through the power of gaming, and 100% of all donations go directly to Children's Miracle Network Hospitals. From 2017 to 2020, I led the Accusoft Team and we raised over $30,000 in those four years!
 
-I have been a huge advocate for Extra Life over the years, because I believe so strongly in its goal: to give hope to children who are confronting scary things no child should have to face. Besides leading Accusoft's team, I have also:
+I have been a huge advocate for Extra Life over the years, because I believe so strongly in its goal: to give hope to children who are confronting scary things no child should have to face. In addition to raising money for Extra Life, I have also:
 
 - Created an [NPM module wrapping the Extra Life API](https://www.npmjs.com/package/extra-life), allowing fundraisers to build interactive applications to help them in their fundraising goals.
 

@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.png" alt="Michael Irigoyen" />
+</div>
+
 # I'm Michael Irigoyen
 I am a software engineer who has been working in the industry for over fifteen years. I enjoy music, gaming, iconography, and home improvement projects. I love to continuously learn new things, and I find expanding my knowledge base often comes while helping others do the same. One of my passions is the Extra Life fundraiser, which raises money for kids in Children's Miracle Network Hospitals.
 

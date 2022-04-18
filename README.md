@@ -3,7 +3,7 @@
 </div>
 
 # I'm Michael Irigoyen
-I am a software engineer who has been working in the industry for over fifteen years. I enjoy music, gaming, iconography, and home improvement projects. I love to continuously learn new things, and I find expanding my knowledge base often comes while helping others do the same. One of my passions is the Extra Life fundraiser, which raises money for kids in Children's Miracle Network Hospitals. I currently work for [Salesforce](https://www.salesforce.com) on the Lightning Web Components team.
+I am a software engineer who has been working in the industry for over fifteen years. I enjoy music, gaming, iconography, and home improvement projects. I love to continuously learn new things, and I find expanding my knowledge base often comes while helping others do the same. One of my passions is the Extra Life fundraiser, which raises money for kids in Children's Miracle Network Hospitals. I currently work for [Salesforce](https://www.salesforce.com) on the [Trailhead Community](https://trailhead.salesforce.com/en/trailblazercommunity) team.
 
 ## Pictogrammers
 [Pictogrammers](https://github.com/Pictogrammers) is an open-source community developing high-quality icons for use by designers and developers in web and application development. As a core contributor, I help maintain our icon databases, [field issues on GitHub](https://github.com/Templarian/MaterialDesign/issues), assist in creation and maintenance of our supporting websites, and have personally contributed more than 1000 icons to our [Material Design Icons](https://materialdesignicons.com/) library!
